@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nguyen Hoang Khang"
+title                    : "Khang Nguyen"
 title_separator          : "-"
-name                     : &name "Nguyen Hoang Khang"
+name                     : &name "Khang Nguyen"
 description              : &description "Senior undergraduate at the Ho Chi Minh City University of Science"
 url                      : https://khangnguyen275.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
