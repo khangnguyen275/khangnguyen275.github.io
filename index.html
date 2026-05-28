@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Personal website for Khang Nguyen: research, projects, writing, and contact information."
+    />
+    <title>Khang Nguyen</title>
+    <link rel="preload" href="assets/profile-mark.svg" as="image" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Khang Nguyen home">
+        <img src="assets/profile-mark.svg" alt="" width="40" height="40" />
+        <span>Khang Nguyen</span>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="#about">About</a>
+        <a href="#work">Work</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="intro-title">
+        <div class="hero-copy">
+          <p class="eyebrow">UCLA affiliate · Personal website</p>
+          <h1 id="intro-title">Hi, I’m Khang Nguyen.</h1>
+          <p class="lede">
+            This is a starter home for my academic work, projects, writing, and links.
+            It is deployed with GitHub Pages and ready to evolve one small change at a time.
+          </p>
+          <div class="actions" aria-label="Primary actions">
+            <a class="button primary" href="#work">View work</a>
+            <a class="button secondary" href="#contact">Get in touch</a>
+          </div>
+        </div>
+        <div class="hero-panel" aria-label="Profile summary">
+          <img src="assets/profile-mark.svg" alt="Khang Nguyen monogram" width="160" height="160" />
+          <p>
+            Add a short professional bio here: your field, current role, research interests,
+            and what visitors should know first.
+          </p>
+        </div>
+      </section>
+
+      <section id="about" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">About</p>
+          <h2>A concise introduction.</h2>
+        </div>
+        <p>
+          Replace this paragraph with a brief biography. Good personal sites usually explain
+          what you study or build, where you are based, and what kinds of collaborations or
+          opportunities you are open to.
+        </p>
+      </section>
+
+      <section id="work" class="section band">
+        <div class="section-heading">
+          <p class="eyebrow">Work</p>
+          <h2>Research, teaching, and experience.</h2>
+        </div>
+        <div class="grid">
+          <article class="card">
+            <h3>Research Interest</h3>
+            <p>Add a focused summary of a research area, lab project, thesis, or paper.</p>
+          </article>
+          <article class="card">
+            <h3>Current Role</h3>
+            <p>Describe your current appointment, academic program, or professional role.</p>
+          </article>
+          <article class="card">
+            <h3>Selected Writing</h3>
+            <p>Link to publications, notes, essays, reports, or presentations.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="projects" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Projects</p>
+          <h2>Things worth sharing.</h2>
+        </div>
+        <div class="project-list">
+          <article>
+            <h3>Project One</h3>
+            <p>Describe the goal, your contribution, and the outcome. Add links when ready.</p>
+          </article>
+          <article>
+            <h3>Project Two</h3>
+            <p>Use this space for software, research artifacts, creative work, or case studies.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="contact" class="section contact">
+        <div class="section-heading">
+          <p class="eyebrow">Contact</p>
+          <h2>Let’s connect.</h2>
+        </div>
+        <p>
+          Add your preferred contact links here, such as email, GitHub, LinkedIn, Google Scholar,
+          ORCID, or a CV.
+        </p>
+        <div class="link-row">
+          <a href="https://github.com/khangnguyen275">GitHub</a>
+          <a href="mailto:khang.nguyenhoang.vn@gmail.com">Email</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>© <span id="year">2026</span> Khang Nguyen. Built with GitHub Pages.</p>
+    </footer>
+
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+  </body>
+</html>
