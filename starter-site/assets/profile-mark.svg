@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Khang Nguyen monogram</title>
+  <desc id="desc">A circular monogram with the letters K and N.</desc>
+  <defs>
+    <linearGradient id="g" x1="28" x2="212" y1="34" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f766e"/>
+      <stop offset=".56" stop-color="#2f5d8c"/>
+      <stop offset="1" stop-color="#b7791f"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="120" fill="#fbfaf7"/>
+  <circle cx="120" cy="120" r="104" fill="url(#g)"/>
+  <circle cx="120" cy="120" r="86" fill="#fbfaf7" opacity=".94"/>
+  <path d="M65 166V75h20v39l37-39h26l-41 42 44 49h-27l-39-45v45H65Zm93 0V75h18l43 56V75h20v91h-17l-44-57v57h-20Z" fill="#17202a"/>
+</svg>
