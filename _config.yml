@@ -16,8 +16,7 @@ nav:
     link: "/miscellaneous/"
 
 footer: true
-footer_url: "https://github.com/ankitsultana/researcher"
-footer_text: "Adapted from Researcher by Ankit Sultana"
+footer_text: "Adapted from [Researcher](https://github.com/ankitsultana/researcher) by Ankit Sultana. [Website source](https://github.com/khangnguyen275/khangnguyen275.github.io)."
 
 sass:
   sass_dir: _sass

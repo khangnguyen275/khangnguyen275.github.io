@@ -23,14 +23,14 @@ Office: MS 7601
 [CV]({{ '/assets/cv.pdf' | relative_url }}) ·
 [Google Scholar](https://scholar.google.com/citations?user=Bvch7-EAAAAJ&hl=en) ·
 [GitHub](https://github.com/khangnguyen275) ·
-[LinkedIn](https://www.linkedin.com/in/khangnguyen275/) ·
-[Source](https://github.com/khangnguyen275/khangnguyen275.github.io)
+[LinkedIn](https://www.linkedin.com/in/khangnguyen275/)
 
 ## News
 
-- Oct 7, 2026: I will give a talk on parameter symmetries and conservation laws in gradient flow at the [Geometric and Algebraic Foundations of Deep Learning Minisymposium](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=89569) at [SIAM MDS26](https://www.siam.org/conferences-events/siam-conferences/mds26/program/program-abstracts/) in Salt Lake City. If you're there, I'd love to chat.
+- Nov 18, 2026: I will give a talk on parameter symmetries and conservation laws in gradient flow at the [Geometric and Algebraic Foundations of Deep Learning Minisymposium](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=89569) at [SIAM MDS26](https://www.siam.org/conferences-events/siam-conferences/mds26/program/program-abstracts/) in Salt Lake City. If you're there, I'd love to chat.
 - Sep 29, 2026: Our paper on critical points of linear self-attention was accepted
   at OPT 2026, the NeurIPS workshop on Optimization for Machine Learning.
+- Aug 3-14, 2026: I attended the [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/).
 
 ## Research
 
