@@ -7,6 +7,8 @@ permalink: /
      src="{{ '/assets/profile.jpg' | relative_url }}"
      alt="Khang Nguyen">
 
+*I am seeking an internship for Summer 2027 and am open to roles involving mathematics and/or machine learning. Please feel free to get in touch.*
+
 ## About
 
 *Nguyễn Hoàng Khang*
@@ -15,15 +17,14 @@ I am a PhD student in the Department of Mathematics at UCLA. I am fortunate to b
 
 I am interested in the intersection of mathematics and machine learning, including machine learning theory, optimization, and large language models for mathematical reasoning.
 
-Email: khang at math.ucla.edu
+Email: khang at math.ucla.edu ·
+Office: MS 7601
 
 [CV]({{ '/assets/cv.pdf' | relative_url }}) ·
 [Google Scholar](https://scholar.google.com/citations?user=Bvch7-EAAAAJ&hl=en) ·
 [GitHub](https://github.com/khangnguyen275) ·
 [LinkedIn](https://www.linkedin.com/in/khangnguyen275/) ·
 [Source](https://github.com/khangnguyen275/khangnguyen275.github.io)
-
-I am seeking an internship for Summer 2027 and am open to roles involving mathematics and/or machine learning. Please feel free to get in touch.
 
 ## News
 
