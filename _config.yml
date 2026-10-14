@@ -1,0 +1,30 @@
+title: "Khang Nguyen"
+author: "Khang Nguyen"
+description: "Mathematics PhD student at UCLA working in mathematical machine learning."
+
+url: "https://khangnguyen275.github.io"
+baseurl: ""
+
+markdown: kramdown
+timezone: America/Los_Angeles
+permalink: /miscellaneous/:year/:month/:day/:title/
+
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Miscellaneous"
+    link: "/miscellaneous/"
+
+footer: true
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "Adapted from Researcher by Ankit Sultana"
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article>
+    <header>
+        <h1>{{ page.title | escape }}</h1>
+        <p>
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+                {{ page.date | date: "%B %d, %Y" }}
+            </time>
+        </p>
+    </header>
+
+    {{ content }}
+</article>
+
+<p>
+    <a href="{{ '/miscellaneous/' | relative_url }}">
+        Back to Miscellaneous
+    </a>
+</p>
